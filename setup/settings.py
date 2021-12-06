@@ -116,4 +116,5 @@ STATIC_URL = '/static/'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
+# Configurando o widget de calendario para utilizar a localização
 TEMPUS_DOMINUS_LOCALIZE = True
